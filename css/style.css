@@ -1,0 +1,95 @@
+body{
+  /* background: no-repeat top/90% url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb7n8Uuk1QRZQ4iUqUcE2TcqmALfrAs5jWQwZkQgu6itL1vNuCoQ"); */
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+  /* width: 90%; */
+}
+footer{
+  margin-left: 48.5%;
+  margin-top: .5em;
+  padding-bottom: .5em;
+  color: magenta;
+  font-family: 'Bilbo Swash Caps', cursive;
+  font-size: 1.5em;
+}
+html{
+  background: no-repeat url("pinkmoon.gif");
+  background-size: cover;
+}
+h1{
+  margin:auto 46%;
+  /* padding-top: 1em; */
+  color: magenta;
+  font-size: 3em;
+}
+span{
+  position: fixed;
+  margin-left: 36%;
+  margin-top: 12%;
+  font-size: 3em;
+  color: magenta;
+  /* color:rgba(137, 40, 161, 0.72); */
+}
+.gameContain{
+  background: no-repeat url("labyrinth.png");
+  background-size: contain;
+  width: auto;
+  margin-left: 38%;
+  margin-top: 5%;
+  height: 600px;
+}
+
+#babe{
+  width: 45px;
+  height: 35px;
+  margin-left:45%;
+  margin-top: 21%;
+  position: relative;
+  left: 0;
+  top: 0;
+
+}
+
+
+  #space-invaderB{
+
+  box-shadow:
+    0 0 0 1em magenta,
+    0 1em 0 1em black,
+    -2.5em 1.5em 0 .5em black,
+    2.5em 1.5em 0 .5em black,
+    -3em -3em 0 0 magenta,
+    3em -3em 0 0 magenta,
+    -2em -2em 0 0 black,
+    2em -2em 0 0 black,
+    -3em -1em 0 0 black,
+    -2em -1em 0 0 black,
+    2em -1em 0 0 black,
+    3em -1em 0 0 black,
+    -4em 0 0 0 black,
+    -3em 0 0 0 magenta,
+    3em 0 0 0 magenta,
+    4em 0 0 0 black,
+    -5em 1em 0 0 black,
+    -4em 1em 0 0 black,
+    4em 1em 0 0 black,
+    5em 1em 0 0 black,
+    -5em 2em 0 0 black,
+    5em 2em 0 0 black,
+    -5em 3em 0 0 black,
+    -3em 3em 0 0 black,
+    3em 3em 0 0 black,
+    5em 3em 0 0 black,
+    -2em 4em 0 0 magenta,
+    -1em 4em 0 0 black,
+    1em 4em 0 0 black,
+    2em 4em 0 0 magenta;
+
+    background: magenta;
+    width: 1em;
+    height: 1em;
+    overflow: hidden;
+
+    margin: 50px 0 70px 54.5%;
+
+  }
